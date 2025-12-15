@@ -9,3 +9,7 @@ This project explores bikeshare data using Python.
 ## How to Run
 1. Place the CSV file locally
 2. Run: python bikeshare.py
+
+## Notes
+- Data files are intentionally ignored using .gitignore
+- This prevents large or sensitive datasets from being uploaded
